@@ -2,7 +2,7 @@
 My first project Yelpcamp
 This project was part of the course I joined on www.udemy.com.
 
-You can view the running application at https://protected-hollows-85414.herokuapp.com.
+
 
 
 How to run the application :-
